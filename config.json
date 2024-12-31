@@ -1,0 +1,19 @@
+{
+    "openai_key": "",
+    "bots": {
+        "v3s": {
+            "token": "",
+            "channel_id": 1321883636529631252,
+            "model": "ft:gpt-4o-mini-2024-07-18:personal:nofilterv3s:AilDmbAB",
+            "name": "v3s-gpt4",
+            "prompt_file": "prompts/v3s_prompt.txt"
+        },
+        "sarvel": {
+            "token": "",
+            "channel_id": 1321883636529631252,
+            "model": "ft:gpt-4o-mini-2024-07-18:personal:sarvel:AikaRcml",
+            "name": "sarvel-gpt4",
+            "prompt_file": "prompts/sarvel_prompt.txt"
+        }
+    }
+}
